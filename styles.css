@@ -1,0 +1,21 @@
+.red{
+    background-color:red;
+    color:white;
+    width:150px;
+    height:50px;
+    text-align:center;
+    border:5px solid black;  
+}
+.blue{
+    background-color:blue;
+    color:white;
+    width:150px;
+    height:50px;
+    text-align:center;
+    border:5px solid black;  
+} 
+.outerBox{ 
+    display:flex;
+    justify-content:center;
+    margin: 10px;
+}
